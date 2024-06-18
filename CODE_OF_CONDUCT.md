@@ -1,4 +1,11 @@
-# Citizen Code of Conduct
+
+---
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
+---
+ # Citizen Code of Conduct
 
 ## 1. Purpose
 
