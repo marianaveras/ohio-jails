@@ -73,7 +73,7 @@ export interface FullPageLayout {
   header: QuartzComponent[]
   beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
-  left: QuartzComponent[Explorer]
+  left: QuartzComponent.Explorer
   right: QuartzComponent[]
   footer: QuartzComponent
 }
