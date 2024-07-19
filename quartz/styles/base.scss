@@ -165,19 +165,19 @@ a {
       flex: 1;
       display: flex;
       flex-direction: column;
-      gap: 2rem;
+      gap: 1rem;
       top: 0;
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
+      padding: 0 1rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
         padding: 0;
         width: initial;
-        margin-top: 2rem;
+        margin-top: 1rem;
       }
     }
 
@@ -214,7 +214,7 @@ a {
   & .page-header {
     margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
-      margin-top: 2rem;
+      margin-top: 1rem;
     }
   }
 
@@ -232,7 +232,7 @@ a {
 }
 
 .footnotes {
-  margin-top: 2rem;
+  margin-top: 1rem;
   border-top: 1px solid var(--lightgray);
 }
 
@@ -484,7 +484,7 @@ p > img + em {
 
 hr {
   width: 100%;
-  margin: 2rem auto;
+  margin: 1rem auto;
   height: 1px;
   border: none;
   background-color: var(--lightgray);
