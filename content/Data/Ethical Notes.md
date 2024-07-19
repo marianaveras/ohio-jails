@@ -1,3 +1,7 @@
+---
+status: unedited
+---
+
 This project is an offshoot of my dissertation work. Data collected for the dissertation project includes [[Data/Public Materials|publicly accessible information]] gathered from digital and physical archives, as well as information gathered directly from those with lived experience in the jails. 
 
 The dissertation research has been reviewed by the NYU IRB, and strict restrictions are in place to ensure individuals' information is protected. Because of data restrictions, the material gathered from [[Data/Private Materials|local archives and from interviews]] is not published here. 
