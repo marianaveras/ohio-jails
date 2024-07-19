@@ -24,7 +24,6 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.Explorer(),
     Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.PageTitle(),
@@ -42,7 +41,6 @@ export const defaultListPageLayout: PageLayout = {
    left: [
     Component.Explorer(),
     Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.PageTitle(),
