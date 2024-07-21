@@ -1,5 +1,6 @@
 ---
 title: About
+share: true
 ---
  This site is the first incarnation of the Ohio Jails Repository, which hosts information I have collected in the process of completing my dissertation at NYU in the Sociology Department. 
  All of the material shared in these pages was generated using public information. 
