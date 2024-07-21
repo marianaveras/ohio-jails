@@ -184,7 +184,7 @@ a {
     & .sidebar.left {
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
-        gap: 0;
+        gap: 0 1rem;
         align-items: center;
       }
     }
