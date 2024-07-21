@@ -1,4 +1,0 @@
-## Cuyahoga County
-
-
-## Franklin County
