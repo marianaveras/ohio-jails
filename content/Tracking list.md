@@ -1,3 +1,6 @@
+---
+share: true
+---
 
 ### Pages needing to be edited 
 

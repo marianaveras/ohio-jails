@@ -2,6 +2,7 @@
 ---
 title: "Test Space"
 draft: false
+share: true
 tags:
   - 
 ---
