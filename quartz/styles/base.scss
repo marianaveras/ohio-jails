@@ -190,7 +190,8 @@ a {
     }
 
     & .sidebar.right {
-      right: 2 vw;
+      left: auto;
+      right: 2vw;
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
