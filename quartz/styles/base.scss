@@ -190,7 +190,7 @@ a {
     }
 
     & .sidebar.right {
-      right:  calc(calc(100vw - $pageWidth) / 2vw - $sidePanelWidth);
+      right:  calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
