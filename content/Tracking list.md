@@ -6,9 +6,9 @@ share: true
 
 | File                                             | Folder |
 | ------------------------------------------------ | ------ |
-| [[Ethical Notes\|Ethical Notes]]         | Data   |
-| [[Private Materials\|Private Materials]] | Data   |
-| [[Public Materials\|Public Materials]]   | Data   |
+| [[./Data/Ethical Notes\|Ethical Notes]]         | Data   |
+| [[./Data/Private Materials\|Private Materials]] | Data   |
+| [[./Data/Public Materials\|Public Materials]]   | Data   |
 
 
 
