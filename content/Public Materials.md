@@ -3,7 +3,7 @@ status: unedited
 share: true
 ---
 
-The publicly available material is organized in this google drive folder by source. A brief summary of each source is below, as well as a link to the source website.
+The publicly available material is organized in [this google drive folder](https://drive.google.com/drive/folders/13KWnOULxPR8xvICn5ZImIFrmARrUPYhc?usp=sharing) by source. A brief summary of each source is below, as well as a link to the source website.
 
 | Folder Name                 | Source                                                                   | Description                                                | Website (needs to be verified)                                                           |
 | --------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -29,7 +29,6 @@ Not included above - needs to be:
 
 - Buckeye Sheriffs
 - CUYAHOGA COUNTY EDUCATION, ENVIRONMENT & SUSTAINABILITY COMMITTEE MEETING
-- Contact Information
 - Cuyahoga County 911
 - Cuyahoga County Archives
 - Cuyahoga County Board of Control
@@ -52,28 +51,12 @@ Not included above - needs to be:
 - Cuyahoga County Website
 - Cuyahoga Diversion Center Committee
 - Cuyahoga Regional Information System
-- DH Fellowship Materials
-- Data Collection Timeline Ohio Trips
-- Data Requests
 - Franklin County Clerk Common Pleas
 - Franklin County Criminal Justice Planning Board
 - Franklin County Municipal Court Judges
 - Franklin County Municipal Court
 - Franklin County Public Safety
-- Grant Applications
-- IRB Materials
-- Internet to be filed
-- Interviews
-- KathyWrayColeman
-- LocalView
 - OJP Funding
 - OPBA Agreements
-- Ohio History Archives
-- Ohio Oct 23 Photos
-- Police Killings
-- Reddit
-- Reimbursement Requests
-- Templates
 - The McDonnell Center CBCF Facility Governing Board
-- Videos
 - Youtube Channels
