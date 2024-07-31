@@ -4,6 +4,7 @@ displayMode: compact
 ---
 
 ```mermaid 
+%%{init: {'theme': 'default' } }%% 
 
 gantt
 title Cuyahoga and Franklin County Sheriffs Timeline 
@@ -28,5 +29,6 @@ Zach Scott :2011, 2016
 Dallas Baldwin:2017, 2024
 
 todayMarker off
+
 
 ```
